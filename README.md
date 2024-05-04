@@ -1,2 +1,2 @@
-# Pattern-Recognition-II
-Excercise jupyter notebooks for the master's course "Pattern Recognition &amp; Machine Learning II"
+# Pattern Recognition & Machine Learning II
+This repository contains jupyter notebooks for exercises of the master's course "Pattern Recognition & Machine Learning II".
